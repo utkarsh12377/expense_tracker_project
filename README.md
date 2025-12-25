@@ -1,2 +1,21 @@
-# expense_tracker_project
-Expense Tracker A modern, client-side web application for tracking personal expenses. Built with pure HTML, CSS, and JavaScript, it features a responsive UI, local storage for data persistence, and easy-to-use functionality for adding, viewing, editing, and deleting expenses. No server required—just open in any browser!
+# Expense Tracker
+
+A client-side JavaScript application to track personal expenses with a modern UI.
+
+## Features
+
+- Add expenses with amount, description, and category
+- View all expenses with dates and totals
+- Delete expenses
+- Edit expenses (via prompts)
+- Data stored in browser's localStorage
+- Modern, responsive web UI
+
+## Usage
+
+Simply open `index.html` in your web browser. No server or installation required!
+
+## Requirements
+
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+- No additional dependencies
